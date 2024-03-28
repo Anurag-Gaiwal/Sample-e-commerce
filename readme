@@ -1,3 +1,4 @@
+```
 # E-Commerce Website
 
 This is a sample e-commerce website project that demonstrates the use of service workers for offline functionality and caching of assets. The project is built using HTML, CSS, and JavaScript, and it showcases a basic layout for an online store where users can browse products and make purchases.
@@ -44,3 +45,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+
+This README provides an overview of the project, instructions for running it locally, details about the project structure, information on contributing to the project, and the project's license. Feel free to customize it further to fit your project's specific needs!
